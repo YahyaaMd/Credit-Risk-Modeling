@@ -1,4 +1,4 @@
-# Credit Risk Analysis and Modeling
+# Credit Risk Modeling and Analysis
 
 ## Overview
 This repository contains a comprehensive **Credit Risk Analysis and Modeling** project using a dataset of loan data from 2007 to 2014. The analysis and models developed here are designed to evaluate and predict the **Probability of Default (PD)**, **Loss Given Default (LGD)**, and **Exposure at Default (EAD)** for loans. These metrics are essential for understanding and mitigating financial risks associated with lending.
